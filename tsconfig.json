@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "sourceMap": true,
+    "outDir": "dist",
+    "lib": ["esnext"],
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}

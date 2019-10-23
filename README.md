@@ -1,0 +1,1 @@
+Bug example for npm package https://github.com/pzavolinsky/ts-unused-exports
